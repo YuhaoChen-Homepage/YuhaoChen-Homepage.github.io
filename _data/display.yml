@@ -7,11 +7,12 @@ homepage:
 # Feel free to replace the footer text if you would like to, but I will greatly appreciate it 
 # if you keep the link to the template so that more people can benefit from it. Thanks!
 footer_text: >-
-  <span style="color: gray; font-size: 14px; font-family: Arial, sans-serif;"">
-    © 2025 Your Name · Built with 
+  <span style="color: gray; font-size: 12px; font-family: Arial, sans-serif;"">
+    © Copyright Yuhao Chen. Powered by Jekyll with 
     <a href="https://github.com/luost26/academic-homepage" target="_blank" style="color: gray; text-decoration: none;">
-      <i class="fas fa-pencil-ruler"></i> academic-homepage
+      academic-homepage
     </a>
+    theme.
   </span>
   
 # footer_text: >-
