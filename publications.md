@@ -40,7 +40,7 @@ See <a href="https://scholar.google.com/citations?user=b7rFzfgAAAAJ&hl=en">my Go
 
 ## Journal
 
-1. **Y. Chen** and L. Dai, “Coded beam training for RIS assisted wireless communications,” submitted to *IEEE Transactions on Wireless Communications*. [(Paper)](https://github.com/YuhaoChen-Homepage/YuhaoChen-Homepage.github.io/assets/files/Coded_Beam_Training_for_RIS-Assisted_Wireless_Communications.pdf)
+1. **Y. Chen** and L. Dai, “Coded beam training for RIS assisted wireless communications,” submitted to *IEEE Transactions on Wireless Communications*. [(Paper)](./assets/files/Coded_Beam_Training_for_RIS-Assisted_Wireless_Communications.pdf)
 
 2. **Y. Chen**, M. Jian, and L. Dai, “Channel estimation for RIS assisted wireless communications: Stationary or non-stationary?,” *IEEE Transactions on Signal Processing*, vol. 72, pp. 3776-3791, Aug. 2024. [(Paper)](https://github.com/YuhaoChen-Homepage/YuhaoChen-Homepage.github.io/assets/files/Channel_Estimation_for_RIS_Assisted_Wireless_Communications_Stationary_or_Non-Stationary.pdf) 
 
