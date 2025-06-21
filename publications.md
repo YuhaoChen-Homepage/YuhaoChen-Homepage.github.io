@@ -32,6 +32,9 @@ body_attr: >-
 </div> -->
 
 
+See <a href="https://scholar.google.com/citations?user=b7rFzfgAAAAJ&hl=en">my Google Scholar profile</a> for a full publication list.
+
+
 
 # Publications
 
