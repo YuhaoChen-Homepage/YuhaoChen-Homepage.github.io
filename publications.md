@@ -67,6 +67,7 @@ See <a href="https://scholar.google.com/citations?user=b7rFzfgAAAAJ&hl=en">my Go
 
 ## Patent
 
-1. L. Dai, **Y. Chen**, “Channel estimation for extremely large-scale MIMO”, 2023-08-09, ZL202310680438.8.
+1. L. Dai, **Y. Chen**, J. Li, J. Tan, M. Hao, and R. MacKenzie, “Wireless telecommunications network”, PCT Patent, Jan. 2024. (Granted, grant number: WO2024007280A1)
 
-1. L. Dai, **Y. Chen**, J. Li, J. Tan, M. Hao, and R. MacKenzie, “Low cost beam training method and codebook design for RIS-assisted wideband wireless communication system”, 2022-08-07, PCTCN2022/104529.
+1. L. Dai, **Y. Chen**, “Channel estimation for extremely large-scale MIMO”, Chinese Patent, Aug. 2023. (Granted, grant number: ZL202310680438.8)
+
