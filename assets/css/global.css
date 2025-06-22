@@ -67,3 +67,13 @@ div.lazy {
     font-family: Courier, monospace;
 }
 
+a {
+  color: #6c757d; /* Bootstrap 的 text-muted 灰色 */
+  text-decoration: none; /* 去掉下划线（可选） */
+}
+
+/* 悬停时也是灰色或略深一点的灰 */
+a:hover {
+  color: #5a6268; /* 深一点的灰（也可以保持不变） */
+  text-decoration: underline; /* 悬停时可选加下划线 */
+}
