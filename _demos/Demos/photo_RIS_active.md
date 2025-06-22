@@ -11,9 +11,9 @@ images:
 - src: https://yuhaochen-homepage.github.io/assets/images/photos/active-VR.jpg
   desc: Demo integrated with real-time VR video transmission
 - src: https://yuhaochen-homepage.github.io/assets/images/photos/active-ICCC.jpg
-  desc: Demo session of ICCC 2022 @ Foshan
+  desc: Demo session of IEEE ICCC 2022 @ Foshan
 - src: https://yuhaochen-homepage.github.io/assets/images/photos/active-ICCC2.jpg
-  desc: Demo session of ICCC 2022 @ Foshan
+  desc: Demo session of IEEE ICCC 2022 @ Foshan
 - src: https://yuhaochen-homepage.github.io/assets/images/photos/active-RISTA.jpg
   desc: Demo session of RISTA @ Hangzhou
 group: Demos
