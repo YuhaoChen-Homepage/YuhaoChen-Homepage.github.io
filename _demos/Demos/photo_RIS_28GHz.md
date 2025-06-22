@@ -1,6 +1,6 @@
 ---
 show: true
-width: 8
+width: 6
 date: 2025-09-12 00:01:00 +0800
 height: 295px
 images:

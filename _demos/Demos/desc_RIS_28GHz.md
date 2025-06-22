@@ -1,6 +1,6 @@
 ---
 show: true
-width: 4
+width: 6
 date: 2025-09-11 00:01:00 +0800
 height: 295px
 group: Demos
@@ -22,6 +22,18 @@ group: Demos
     <p>
         For a tidy layout, it is recommended to set the width of the cards to be either multiple of 3 or multiple of 4 for all cards, except for small badges that do not take up much space (width=1).
     </p>
+    <div class="card-text overflow-auto" style="max-height: 100%; flex: 1;">
+      <p>This part can scroll if there's a lot of content.</p>
+      <p>Line 2</p>
+      <p>Line 3</p>
+      <p>Line 4</p>
+      <p>Line 5</p>
+      <p>Line 6</p>
+      <p>Line 7</p>
+      <p>Line 8</p>
+      <p>Line 9</p>
+      <p>Line 10</p>
+    </div>
 </div>
 
 
