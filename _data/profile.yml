@@ -28,7 +28,7 @@ short_bio: >-
     I received my M.E. degree in Electronic and Information Engineering from Tsinghua University in 2024, where I worked with Prof. <a href="https://oa.ee.tsinghua.edu.cn/dailinglong/index.html" target="_blank">Linglong Dai</a>. Prior to that, I received my B.E. degree in Electronic Information Science and Technology from Tsinghua University in 2021.
   </p>
 
-portrait_url: /assets/images/photos/portrait.jpg
+portrait_url: /assets/images/photos/portrait.jpg 
 # portrait_caption: >-
 #   Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
 
