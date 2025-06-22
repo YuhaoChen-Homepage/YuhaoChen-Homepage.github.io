@@ -6,7 +6,7 @@ pub:            "IEEE Transactions on Wireless Communications"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
 # pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
-pub_date:       "2024"
+pub_date:       "2025"
 
 abstract: >-
   Exploit the idea of channel coding to improve the beam training accuracy in RIS assisted wireless communication systems. Further propose the beam design scheme and encoding scheme according to the hardware limitations of RIS.
