@@ -34,8 +34,16 @@ plugins:
 
 # timezone: Asia/Shanghai
 
+# collections:
+#   - publications
+#   - news
+#   # - showcase
+#   - demos
+
 collections:
-  - publications
-  - news
-  # - showcase
-  - demos
+  publications:
+    output: true
+  news:
+    output: true
+  demos:
+    output: true
