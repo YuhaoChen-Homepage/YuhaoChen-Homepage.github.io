@@ -7,19 +7,10 @@ group: Demos
 ---
 
 <div class="p-4">
-    <h2>Welcome to Showcase!</h2>
-    <hr />
-    <!-- <img data-src="{{ 'assets/images/covers/cover1.jpg' | relative_url }}" class="lazy w-100 rounded-sm" src="{{ '/assets/images/empty_300x200.png' | relative_url }}"> -->
     <div class="card-img-overlay" style="overflow: scroll; background: rgb(255,255,255,0.8)">
-      <h5 class="card-title">Image Lazyload</h5>
+      <h5 class="card-title">RIS-Assisted Communication Prototype with a 28 GHz RIS with 2304 elements</h5>
       <p class="card-text">
-        It is highly recommended to use lazyload for images to improve page loading speed, especially for pages with many images.
-        Example code snippet:
-      </p>
-      <p class="card-text">
-        {% raw %}
-        <code>&lt;img data-src=&quot;[Image URL]&quot; class=&quot;lazy w-100 rounded-sm&quot; src=&quot;{{ '/assets/images/empty_300x200.png' | relative_url }}&quot;&gt;</code>
-        {% endraw %}
+        This prototype integrates a 2304-element RIS and an AI-based end-to-end architecture, which operates at 28 GHz. With the 
       </p>
     </div>
 </div>
