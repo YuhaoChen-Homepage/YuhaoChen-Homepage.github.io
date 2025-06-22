@@ -6,6 +6,8 @@ body_attr: >-
   data-spy="scroll" data-target="#navbar-year" data-offset="100"
 ---
 
+## Awards
+
 * Excellent Master Dissertation of Tsinghua, 2024
 * Excellent Graduates of Beijing, 2024
 * The National Scholarship, 2023. 
