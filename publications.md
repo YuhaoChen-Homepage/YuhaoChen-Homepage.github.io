@@ -34,11 +34,11 @@ body_attr: >-
 
 See <a href="https://scholar.google.com/citations?user=b7rFzfgAAAAJ&hl=en">my Google Scholar profile</a> for a full publication list.
 
-## Book Chapter
+## Book Chapters
 
 1. Z. Zhang, **Y. Chen**, Q, Yu, and L. Dai, “IRS Architecture and Hardware Design,” in *Intelligent Surfaces Empowered 6G Wireless Network*, Chapter 2, Wiley-IEEE Press, 2023. [(Book)](https://www.wiley.com/en-ie/Intelligent+Surfaces+Empowered+6G+Wireless+Network-p-9781119913092)
 
-## Journal
+## Journal Papers
 
 1. **Y. Chen** and L. Dai, “Coded beam training for RIS assisted wireless communications,” *IEEE Transactions on Wireless Communications*, vol. 24, no. 5, pp. 3854-3867, May 2025. [(Paper)](https://yuhaochen-homepage.github.io/assets/files/Coded_Beam_Training_for_RIS-Assisted_Wireless_Communications.pdf)
 
@@ -52,7 +52,7 @@ See <a href="https://scholar.google.com/citations?user=b7rFzfgAAAAJ&hl=en">my Go
 
 6. **Y. Chen**, J. Tan, M. Hao, R. MacKenzie, and L. Dai “Accurate beam training for RIS-assisted wideband terahertz communication,” *IEEE Transactions on Communications*, vol. 71, no. 12, pp. 7425-7440, Dec. 2023. [(Paper)](https://yuhaochen-homepage.github.io/assets/files/Accurate_Beam_Training_for_RIS-Assisted_Wideband_Terahertz_Communication.pdf) 
 
-## Conference
+## Conference Papers
 
 1. **Y. Chen**, J. Tan, and L. Dai, “Analytical beam training for RIS-assisted wideband terahertz communication,” in *Proceedings of 2023 IEEE Global Communications Conference* (<b><i>IEEE GLOBECOM’23</i></b>), Kuala Lumpur, Malaysia, Dec. 2023. [(Paper)](https://yuhaochen-homepage.github.io/assets/files/Analytical_Beam_Training_for_RIS-Assisted_Wideband_Terahertz_Communication.pdf)
 
@@ -62,10 +62,12 @@ See <a href="https://scholar.google.com/citations?user=b7rFzfgAAAAJ&hl=en">my Go
 
 ## Others
 
-1. Z. Zhang, **Y. Chen**, Z. Peng, and L. Dai, “Active reconfigurable intelligent surface aided wireless communication prototype,” in *Proceedings of 2022 IEEE Global Communications Conference* (<b><i>IEEE GLOBECOM’22, Demo Session</i></b>), Rio de Janeiro, Brazil, Dec. 2022. [(Slides)](https://yuhaochen-homepage.github.io/assets/files/Active_reconfigurable_intelligent_surface_aided_wireless_communication_prototype.pdf)
-2. Z. Zhang, **Y. Chen**, Z. Wu, Y. Lu, Z. Wan, and L. Dai, “Active reconfigurable intelligent surface aided wireless communication prototype,” in *Proceedings of 2023 IEEE Global Communications Conference* (<b><i>IEEE GLOBECOM’23, Demo Session</i></b>), Kuala Lumpur, Malaysia, Dec. 2023.
+1. Z. Zhang, **Y. Chen**, Z. Wu, Y. Lu, Z. Wan, and L. Dai, “Active reconfigurable intelligent surface aided wireless communication prototype,” in *Proceedings of 2023 IEEE Global Communications Conference* (<b><i>IEEE GLOBECOM’23, Demo Session</i></b>), Kuala Lumpur, Malaysia, Dec. 2023.
 
-## Patent
+1. Z. Zhang, **Y. Chen**, Z. Peng, and L. Dai, “Active reconfigurable intelligent surface aided wireless communication prototype,” in *Proceedings of 2022 IEEE Global Communications Conference* (<b><i>IEEE GLOBECOM’22, Demo Session</i></b>), Rio de Janeiro, Brazil, Dec. 2022. [(Slides)](https://yuhaochen-homepage.github.io/assets/files/Active_reconfigurable_intelligent_surface_aided_wireless_communication_prototype.pdf)
+
+
+## Patents
 
 1. L. Dai, **Y. Chen**, J. Li, J. Tan, M. Hao, and R. MacKenzie, “Wireless telecommunications network”, PCT Patent, Jan. 2024. (Granted, grant number: WO2024007280A1)
 
