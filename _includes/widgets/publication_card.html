@@ -1,6 +1,6 @@
 {% assign publications = include.publications %}
 <div class="my-3 p-0 bg-white shadow-sm rounded-sm">
-    <h6>
+    <h6 class="border-bottom border-gray p-3 mb-0">
         {% if include.title %}{{include.title}}{% else %}<i class="fas fa-star"></i> Selected Recent Publications{% endif %} 
         <a href="{{ 'publications' | relative_url }}">(more)</a>
     </h6>
@@ -12,4 +12,3 @@
     </h6> -->
 </div>
 
- <!-- class="border-bottom border-gray p-3 mb-0" -->
