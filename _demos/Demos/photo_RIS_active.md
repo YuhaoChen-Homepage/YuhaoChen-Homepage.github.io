@@ -2,7 +2,7 @@
 show: true
 width: 8
 date: 2024-09-12 00:01:00 +0800
-height: 320px
+height: 350px
 images:
 - src: https://yuhaochen-homepage.github.io/assets/images/photos/active-proto.jpg
   desc: 3.5 GHz active RIS with 64 elements

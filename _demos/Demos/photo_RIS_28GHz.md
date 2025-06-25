@@ -2,7 +2,7 @@
 show: true
 width: 8
 date: 2025-09-12 00:01:00 +0800
-height: 320px
+height: 350px
 images:
 - src: https://yuhaochen-homepage.github.io/assets/images/photos/mmWave-prototype.png
   desc: 28 GHz RIS with 2304 elements
