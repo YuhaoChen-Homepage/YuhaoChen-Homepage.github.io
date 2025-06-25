@@ -6,7 +6,7 @@
                     {% if site.data.profile.education %}
                     <div class="col-md-6">
                         <div class="mx-2 my-1">
-                            <h6>Education</h6>
+                            <h6><i class="fas fa-graduation-cap"></i> Education</h6>
                             <ul class="list-unstyled mb-1">
                                 {% for item in site.data.profile.education %}
                                 <li class="media mb-1">
@@ -52,7 +52,7 @@
                     {% if site.data.profile.awards %}
                     <div class="col-md-6">
                         <div class="mx-2 my-1">
-                            <h6>Selected Awards <a href="{{ 'awards' | relative_url }}">(more)</a></h6>
+                            <h6><i class="fas fa-trophy"></i> Selected Awards <a href="{{ 'awards' | relative_url }}">(more)</a></h6>
                             <ul class="list small pl-3 mb-1">
                                 {% for item in site.data.profile.awards %}
                                 <li>
