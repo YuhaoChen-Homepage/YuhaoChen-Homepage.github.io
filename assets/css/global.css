@@ -78,9 +78,10 @@ a:hover {
 }
 
 .caption-box {
-  background-color: rgba(240, 240, 240, 0.8);  /* 半透明灰色 */
-  color: #000;  /* 黑色文字 */
+  background-color: rgba(240, 240, 240, 0.6); 
+  color: #000; 
   display: inline-block;
-  border-radius: 0.5rem;  /* 圆角 */
+  border-radius: 0.5rem; 
   max-width: 90%;
+  padding: 0.5rem 0.75rem;
 }
