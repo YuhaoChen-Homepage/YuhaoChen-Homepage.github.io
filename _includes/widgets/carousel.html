@@ -12,8 +12,12 @@
                 <div class="lazy always-load d-block rounded-sm" data-src="{{ item.src | relative_url }}" style="height: {{ include.height }};">
                 </div>
                 <div class="carousel-caption d-none d-md-block">
-                    <h5>{{ item.title }}</h5>
-                    <p>{{ item.desc }}</p>
+                    <div class="caption-box p-3 rounded">
+                        <h5 class="mb-1">{{ item.title }}</h5>
+                        <p class="mb-0">{{ item.desc }}</p>
+                    </div>
+                    <!-- <h5>{{ item.title }}</h5>
+                    <p>{{ item.desc }}</p> -->
                 </div>
                 {% if item.link %}</a>{% endif %}
             </div>
