@@ -9,5 +9,5 @@ pages:
   url: /demos
 - name: Awards
   url: /awards
-- name: CV
-  url: https://yuhaochen-homepage.github.io/assets/files/CV_YuhaoChen.pdf
+# - name: CV
+#   url: https://yuhaochen-homepage.github.io/assets/files/CV_YuhaoChen.pdf
