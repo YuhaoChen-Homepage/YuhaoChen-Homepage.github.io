@@ -8,8 +8,8 @@ body_attr: >-
 
 ## Awards
 
-* Excellent Master Dissertation of Tsinghua, 2024
-* Excellent Graduates of Beijing, 2024
+* Excellent Master Dissertation of Tsinghua, 2024.
+* Excellent Graduates of Beijing, 2024.
 * The National Scholarship, 2023. 
 * The National First Prize of the 17th China Graduate Electronic Design Competition, 2022. (<font color=red>Top 1.7% among 5824 teams</font>)
 * IEEE ICC 2022 Outstanding Demo Award, 2022.
