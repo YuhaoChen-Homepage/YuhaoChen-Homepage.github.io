@@ -7,9 +7,9 @@ images:
 - src: https://yuhaochen-homepage.github.io/assets/images/photos/mmWave-prototype.png
   desc: 28 GHz RIS with 2304 elements
 - src: https://yuhaochen-homepage.github.io/assets/images/photos/mmWave-test.jpg
-  desc: Demo test in Tsinghua
+  desc: Demo test in Tsinghua University, China
 - src: https://yuhaochen-homepage.github.io/assets/images/photos/mmWave-RISTA.jpg
-  desc: Demo session of RISTA @ Hangzhou
+  desc: Demo session of RISTA @ Hangzhou, China
 group: Demos
 ---
 
