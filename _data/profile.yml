@@ -8,7 +8,7 @@ positions:
 # - name: Position 2 without logo
 
 
-email: "yc3718@princeton.edu"
+email: "yuhao.chen@princeton.edu"
 gscholar: https://scholar.google.com/citations?user=b7rFzfgAAAAJ&hl=en  # This is an example, replace it with your own Google Scholar ID
 # github: your_github_id
 # twitter: your_twitter_id  # Do not include the '@' symbol
@@ -33,7 +33,7 @@ portrait_url: /assets/images/photos/portrait.jpg
 #   Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
 
 education:
-- name: Princeton University
+- name: Princeton University 
   logo: /assets/images/badges/Princeton.png
   position: >- 
     Department of Electrical and Computer Engineering <br/> 
