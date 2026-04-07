@@ -76,5 +76,5 @@ export const siteData = {
     allAwards,
     homeAwards,
     setups,
-    footerHtml: '&copy; Yuhao Chen. Created with <a href="https://chatgpt.com/codex" target="_blank" rel="noreferrer">Codex</a>.'
+    footerHtml: '&copy; Yuhao Chen. Designed with <a href="https://chatgpt.com/codex" target="_blank" rel="noreferrer">Codex</a>.'
 };
