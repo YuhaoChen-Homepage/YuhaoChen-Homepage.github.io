@@ -92,11 +92,15 @@ export const publicationSections = [
         title: "Patents",
         items: [
             {
-                html: 'L. Dai, <strong class="author-highlight">Y. Chen</strong>, J. Li, J. Tan, M. Hao, and R. MacKenzie, "Wireless telecommunications network." PCT Patent, Jan. 2024. (Granted, grant number: WO2024007280A1)',
+                html: 'L. Dai, X. Su, Z. Wu, and <strong class="author-highlight">Y. Chen</strong>, "Nonlinear hybrid precoding method and device based on maximizing weighted sum rate." CN202311395093.8, Mar. 2024.',
                 links: []
             },
             {
-                html: 'L. Dai, <strong class="author-highlight">Y. Chen</strong>, "Channel estimation for extremely large-scale MIMO." Chinese Patent, Aug. 2023. (Granted, grant number: ZL202310680438.8)',
+                html: 'L. Dai, <strong class="author-highlight">Y. Chen</strong>, J. Li, J. Tan, M. Hao, and R. MacKenzie, "Wireless telecommunications network." WO2024007280A1, Jan. 2024.',
+                links: []
+            },
+            {
+                html: 'L. Dai, <strong class="author-highlight">Y. Chen</strong>, "Channel estimation method and device for ultra-large-scale MIMO communication system." ZL202310680438.8, Aug. 2023.',
                 links: []
             }
         ]
