@@ -502,15 +502,24 @@ button {
     border-top: 0;
 }
 
-.publication-preview__cover {
+.publication-preview__cover-frame {
     width: 100%;
     aspect-ratio: 3 / 2;
-    object-fit: contain;
-    object-position: center center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
     padding: 0.35rem;
     border: 1px solid var(--border);
     border-radius: var(--radius-md);
     background: #090d1a;
+}
+
+.publication-preview__cover {
+    display: block;
+    width: 100%;
+    height: auto;
+    max-height: 100%;
+    border-radius: var(--radius-md);
 }
 
 .publication-preview__title {
@@ -850,7 +859,7 @@ button {
         height: 180px;
     }
 
-    .publication-preview__cover {
+    .publication-preview__cover-frame {
         max-width: 220px;
     }
 }

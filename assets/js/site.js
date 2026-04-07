@@ -168,7 +168,9 @@ const renderSelectedPublicationsCard = () => `
             ${siteData.selectedPublications.map((publication) => `
                 <article class="publication-preview">
                     <div>
-                        <img class="publication-preview__cover" src="${publication.cover}" alt="${publication.title}">
+                        <div class="publication-preview__cover-frame">
+                            <img class="publication-preview__cover" src="${publication.cover}" alt="${publication.title}">
+                        </div>
                     </div>
                     <div>
                         <h3 class="publication-preview__title">
