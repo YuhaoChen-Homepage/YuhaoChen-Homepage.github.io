@@ -25,11 +25,12 @@ jobs:
         uses: actions/configure-pages@v5
       - name: Prepare static site artifact
         run: |
-          mkdir -p site-dist/assets/css site-dist/assets/js site-dist/awards site-dist/setups site-dist/publications
+          mkdir -p site-dist
           cp index.html 404.html .nojekyll site-dist/
-          cp awards/index.html site-dist/awards/
-          cp setups/index.html site-dist/setups/
-          cp publications/index.html site-dist/publications/
+          cp -R awards site-dist/
+          cp -R setups site-dist/
+          cp -R publications site-dist/
+          mkdir -p site-dist/assets/css site-dist/assets/js
           cp assets/css/site.css site-dist/assets/css/
           cp assets/js/site.js assets/js/site-data.js site-dist/assets/js/
           cp -R assets/files site-dist/assets/
