@@ -6,7 +6,7 @@ Source for [yuhaochen-homepage.github.io](https://yuhaochen-homepage.github.io/)
 
 - [`index.html`](index.html): home
 - [`publications/index.html`](publications/index.html): publications
-- [`demos/index.html`](demos/index.html): demos
+- [`setups/index.html`](setups/index.html): setups
 - [`awards/index.html`](awards/index.html): awards
 
 This repo is now a plain static site built with HTML, CSS, and JavaScript only. There is no Ruby, Jekyll, Node, or Docker requirement for local preview.

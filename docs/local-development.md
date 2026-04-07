@@ -20,7 +20,7 @@ The workspace already includes:
 
 - Home: [http://127.0.0.1:5500/](http://127.0.0.1:5500/)
 - Publications: [http://127.0.0.1:5500/publications/](http://127.0.0.1:5500/publications/)
-- Demos: [http://127.0.0.1:5500/demos/](http://127.0.0.1:5500/demos/)
+- Setups: [http://127.0.0.1:5500/setups/](http://127.0.0.1:5500/setups/)
 - Awards: [http://127.0.0.1:5500/awards/](http://127.0.0.1:5500/awards/)
 
 ## Troubleshooting
