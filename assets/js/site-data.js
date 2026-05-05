@@ -16,11 +16,11 @@ export const siteData = {
         positions: [
             {
                 logo: "/assets/images/badges/Princeton.png",
-                text: "Ph.D. Student, Princeton University"
+                text: "Ph.D. Candidate, Princeton University"
             }
         ],
         bio: [
-            'I am a second year graduate student at Princeton ECE, working at Smart Wireless Agile Networks Lab advised by Prof. <a href="https://ghasempour.princeton.edu/" target="_blank" rel="noreferrer">Yasaman Ghasempour</a>. My research focuses on next-generation wireless networks.',
+            'I am a Ph.D. candidate at Princeton ECE, working at Smart Wireless Agile Networks Lab advised by Prof. <a href="https://ghasempour.princeton.edu/" target="_blank" rel="noreferrer">Yasaman Ghasempour</a>. My research focuses on next-generation wireless networks.',
             'I received my M.E. degree in Electronic and Information Engineering from Tsinghua University in 2024, where I worked with Prof. <a href="https://oa.ee.tsinghua.edu.cn/dailinglong/index.html" target="_blank" rel="noreferrer">Linglong Dai</a>. Prior to that, I received my B.E. degree in Electronic Information Science and Technology from Tsinghua University in 2021.'
         ],
         links: [
@@ -55,7 +55,7 @@ export const siteData = {
         {
             name: "Princeton University",
             logo: "/assets/images/badges/Princeton.png",
-            position: "Ph.D. Student in Department of Electrical and Computer Engineering",
+            position: "Ph.D. Candidate in Department of Electrical and Computer Engineering",
             date: "Sep. 2024 - Present"
         },
         {
